@@ -9,3 +9,4 @@ Each problem lives in its own folder (`NNNN-problem-title/`) with a `readme.md` 
 | #    | Date Solved | Problem                                                  | Difficulty | Tags              |
 | ---- | ----------- | -------------------------------------------------------- | ---------- | ----------------- |
 | 1480 | 2026-07-28  | [Running Sum of 1d Array](1480-running-sum-of-1d-array/) | Easy       | Array, Prefix Sum |
+| 2    | 2026-07-28  | [Add Two Numbers](2-add-two-numbers/)                    | Medium     | Linked List, Math |
