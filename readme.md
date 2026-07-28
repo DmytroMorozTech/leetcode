@@ -1,3 +1,11 @@
 # LeetCode Solutions
 
 This repository is where I keep my solutions to problems from [LeetCode](https://leetcode.com).
+
+Each problem lives in its own folder (`NNNN-problem-title/`) with a `readme.md` (problem statement) and a `solution.py` (my solution). The table below indexes them chronologically and by topic/difficulty.
+
+## Index
+
+| #    | Date Solved | Problem                                                  | Difficulty | Tags              |
+| ---- | ----------- | -------------------------------------------------------- | ---------- | ----------------- |
+| 1480 | 2026-07-28  | [Running Sum of 1d Array](1480-running-sum-of-1d-array/) | Easy       | Array, Prefix Sum |
